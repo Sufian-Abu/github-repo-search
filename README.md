@@ -1,3 +1,15 @@
+
+Feature:
+  Search Github user using their username & Find out their Github information.
+
+
+Technology Used:
+  ReactJS: To design interface.
+  Redux: For managing state of the application.
+  Axios: REST API request send and response manipulation.
+  Saga: For maintaining async action of the app.
+  Formik: DOM-form validation using YUP.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
